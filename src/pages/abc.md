@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ABC Testing
 seo:
   title: ''
   description: ''
