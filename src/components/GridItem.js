@@ -13,7 +13,7 @@ export default class GridItem extends React.Component {
         let is_card = false;
         let has_text = false;
         let title_align_x = _.get(item, 'title_align', null) || 'left';
-        let content_align_x = _.get(item, 'content_align', null) || 'right';
+        let content_align_x = _.get(item, 'content_align', null) || 'left';
         let actions_align_x = _.get(item, 'actions_align', null) || 'left';
         let actions_width = _.get(item, 'actions_width', null) || 'auto';
         let has_image = false;
